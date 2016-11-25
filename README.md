@@ -31,3 +31,4 @@ Here's how to use this bot as a starter template for your own Node.js based bot:
 * Azure "knows" your app is a NodeJs app by the presence of the "server.js" file. Renaming this file may possibly cause Azure to not execute NodeJs code.
 * Azure app settings become NodeJS process.env variables.
 * Use https when specifying URLs in the Bot Framework developer portal. Your app secret will not be transmitted unless it is secure.
+# echobot
